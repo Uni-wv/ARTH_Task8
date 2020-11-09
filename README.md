@@ -2,12 +2,12 @@
 TEAM TASK REPOSITORY
 
 
-Akanksha Singh
+Akanksha Singh <br/>
 Worked For:
 Integration , Blog , aws.py
 
 
-Nikhil Kumar
+Nikhil Kumar<br/>
 Worked For:
 Integration , Blog , hadoop.py
 
