@@ -3,25 +3,25 @@ TEAM TASK REPOSITORY
 
 
 Akanksha Singh <br/>
-Worked For:
-Integration , Blog , aws.py
+Worked For: <br/>
+Integration , Blog , aws.py <br/>
 
 
 Nikhil Kumar<br/>
-Worked For:
-Integration , Blog , hadoop.py
+Worked For:<br/>
+Integration , Blog , hadoop.py<br/>
 
 
-Simran Kumari
-Worked For:
-Integration , Blog , aws.py
+Simran Kumari<br/>
+Worked For:<br/>
+Integration , Blog , aws.py<br/>
 
 
-Govind Bhardwaj
-Worked For:
-Integration , Blog , lvm.py , automation.py
+Govind Bhardwaj<br/>
+Worked For:<br/>
+Integration , Blog , lvm.py , automation.py<br/>
 
 
-Sudhanshu Ranjan 
-Worked For:
-docker.py
+Sudhanshu Ranjan <br/>
+Worked For:<br/>
+docker.py<br/>
